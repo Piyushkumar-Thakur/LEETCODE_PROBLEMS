@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0434-number-of-segments-in-a-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
