@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0804-unique-morse-code-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
+| [0804-unique-morse-code-words](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0796-rotate-string) |
+## Hash Table
+|  |
+| ------- |
+| [0804-unique-morse-code-words](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0804-unique-morse-code-words) |
 <!---LeetCode Topics End-->
