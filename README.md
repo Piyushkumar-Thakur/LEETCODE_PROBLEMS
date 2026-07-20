@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0434-number-of-segments-in-a-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0459-repeated-substring-pattern) |
+| [0696-count-binary-substrings](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0804-unique-morse-code-words) |
 ## Dynamic Programming
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
+| [0696-count-binary-substrings](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0696-count-binary-substrings) |
 ## Greedy
 |  |
 | ------- |
