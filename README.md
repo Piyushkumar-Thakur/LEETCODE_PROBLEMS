@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0804-unique-morse-code-words) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,4 +52,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0804-unique-morse-code-words) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0884-uncommon-words-from-two-sentences) |
+## Counting
+|  |
+| ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0884-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
