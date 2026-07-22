@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1002-find-common-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0804-unique-morse-code-words](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
+| [1002-find-common-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1002-find-common-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 ## Counting
 |  |
 | ------- |
