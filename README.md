@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1154-day-of-the-year](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1154-day-of-the-year) |
+| [1189-maximum-number-of-balloons](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,8 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1189-maximum-number-of-balloons](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
