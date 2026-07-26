@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1332-remove-palindromic-subsequences](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1332-remove-palindromic-subsequences) |
+| [1507-reformat-date](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1507-reformat-date) |
 ## Dynamic Programming
 |  |
 | ------- |
