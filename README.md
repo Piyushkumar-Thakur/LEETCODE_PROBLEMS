@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1332-remove-palindromic-subsequences) |
 | [1507-reformat-date](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1528-shuffle-string) |
+| [1544-make-the-string-great](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1544-make-the-string-great) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
