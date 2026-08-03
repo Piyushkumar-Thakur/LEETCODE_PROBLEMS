@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1528-shuffle-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
