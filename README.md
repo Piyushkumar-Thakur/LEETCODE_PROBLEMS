@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 ## Sorting
 |  |
 | ------- |
