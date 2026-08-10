@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0061-rotate-list) |
 | [0455-assign-cookies](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0696-count-binary-substrings) |
 | [1332-remove-palindromic-subsequences](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1332-remove-palindromic-subsequences) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
