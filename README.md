@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
+| [0445-add-two-numbers-ii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0445-add-two-numbers-ii) |
 | [1154-day-of-the-year](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1154-day-of-the-year) |
 | [2235-add-two-integers](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2235-add-two-integers) |
 ## String Matching
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0445-add-two-numbers-ii) |
 | [1544-make-the-string-great](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
