@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0445-add-two-numbers-ii) |
 | [1154-day-of-the-year](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1154-day-of-the-year) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2235-add-two-integers) |
 ## String Matching
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0445-add-two-numbers-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
