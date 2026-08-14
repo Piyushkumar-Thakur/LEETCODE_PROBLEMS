@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1528-shuffle-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
@@ -135,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0148-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
