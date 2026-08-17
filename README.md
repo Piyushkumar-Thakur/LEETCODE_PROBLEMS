@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1528-shuffle-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1154-day-of-the-year](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1154-day-of-the-year) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2235-add-two-integers) |
 ## String Matching
 |  |
@@ -155,4 +157,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
