@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 ## Backtracking
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0455-assign-cookies](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
