@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1512-number-of-good-pairs](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1528-shuffle-string) |
+| [1550-three-consecutive-odds](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
