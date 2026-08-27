@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0445-add-two-numbers-ii) |
 | [1544-make-the-string-great](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -196,4 +198,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1920-build-array-from-permutation) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2696-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
