@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2788-split-strings-by-separator) |
+| [3110-score-of-a-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
