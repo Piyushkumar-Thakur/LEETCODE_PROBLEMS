@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
