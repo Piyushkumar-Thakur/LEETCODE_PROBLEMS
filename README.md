@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2788-split-strings-by-separator](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2788-split-strings-by-separator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2788-split-strings-by-separator](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2788-split-strings-by-separator) |
 ## Two Pointers
 |  |
 | ------- |
