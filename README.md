@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0434-number-of-segments-in-a-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0459-repeated-substring-pattern) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0445-add-two-numbers-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0012-integer-to-roman) |
 | [0804-unique-morse-code-words](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0953-verifying-an-alien-dictionary) |
