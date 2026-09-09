@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/3871-count-commas-in-range-ii) |
 ## String Matching
 |  |
 | ------- |
