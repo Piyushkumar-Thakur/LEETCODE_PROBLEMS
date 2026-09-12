@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2788-split-strings-by-separator](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2788-split-strings-by-separator) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
