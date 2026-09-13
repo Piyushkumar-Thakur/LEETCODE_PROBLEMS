@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0455-assign-cookies](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0804-unique-morse-code-words](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0804-unique-morse-code-words) |
+| [0835-image-overlap](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
