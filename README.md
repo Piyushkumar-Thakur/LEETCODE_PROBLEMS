@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0836-rectangle-overlap) |
 | [1154-day-of-the-year](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1154-day-of-the-year) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -264,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
