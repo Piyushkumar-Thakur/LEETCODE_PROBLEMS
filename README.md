@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0836-rectangle-overlap) |
+| [1137-n-th-tribonacci-number](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1154-day-of-the-year) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
 ## Linked List
 |  |
 | ------- |
