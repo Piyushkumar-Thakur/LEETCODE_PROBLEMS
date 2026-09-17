@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1550-three-consecutive-odds) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyushkumar-Thakur/LEETCODE_PROBLEMS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
